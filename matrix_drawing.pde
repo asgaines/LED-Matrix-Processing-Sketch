@@ -1,5 +1,6 @@
 import processing.serial.*;
 
+// Initialize globals
 Serial serialPort  = new Serial(this, Serial.list()[0], 9600);  // Create object from Serial class
 int boxsize = 50;
 int cols, rows;
