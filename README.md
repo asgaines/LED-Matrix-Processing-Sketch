@@ -7,3 +7,11 @@
 ![Interface on computer](img/outwards_computer.jpg)
 
 ![Displayed on LED Matrix](img/outwards_grid.jpg)
+
+## Usage
+
+- Install [Processing](https://processing.org/download/)
+- Download this package and place in your Processing sketchbook directory
+- Open project in Processing (restart application if open when installing)
+- Press Play button in Processing window
+- Click around!
