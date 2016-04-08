@@ -14,4 +14,4 @@
 - Download this package and place in your Processing sketchbook directory
 - Open project in Processing (restart application if open when installing)
 - Press Play button in Processing window
-- Click around!
+- Click around! Left click to turn LED on, right click to turn off. Click-and-drag supported.
